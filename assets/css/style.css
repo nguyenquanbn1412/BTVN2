@@ -1,0 +1,33 @@
+table, tr, th, td{
+    border: 1px solid black;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+}
+td{
+    padding: 5px;    
+}
+h1{
+    text-align: center;
+}
+#btn-center-td{
+    text-align: center;
+}
+#width-of-td-label{
+    width: 120px;
+}
+#width-of-td-input{
+    width: 270px;
+}
+#space-beetwen-btn{
+    margin-left: 15px;
+}
+.style-of-input{
+    width: 235px;
+    font-size: 14px;
+}
+.style-of-chkbox{
+    margin-right: 5px;
+}
